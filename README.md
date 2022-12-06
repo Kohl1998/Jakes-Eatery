@@ -30,4 +30,4 @@ For this application there are the restaurant meals that contain information on 
 
 ## Link
 
-https://kohl1998.github.io/Code-Refactored/
+https://kohl1998.github.io/Jakes-Eatery/
