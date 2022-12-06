@@ -14,9 +14,7 @@ N/A
 
 ## Usage
 
-```md
-    ![alt text](starter/assets/images/presentation1.png)
-    ```
+N/A
 
 ## Credits
 
