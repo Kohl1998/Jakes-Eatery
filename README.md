@@ -1,4 +1,4 @@
-# Websites for Streak Restaurant
+# Website for small business
 
 ## Description
 
