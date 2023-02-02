@@ -8,21 +8,18 @@ My main objective for this was to help the business owner have a professional si
 
 During the process I learnt more about css background properties in structuring content within grids.
 
-## Installation
+## Screenshot
 
-N/A
-
-## Usage
-
-N/A
+[![Jakes-Eatery.png](https://i.postimg.cc/L6nZjQTH/Jakes-Eatery.png)](https://postimg.cc/N5vMc4SV)
 
 ## Credits
 
-N/A
+- Edx education https://www.edx.org/learn/education
+- Bootstrap https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Mit license
 
 ## Features
 
